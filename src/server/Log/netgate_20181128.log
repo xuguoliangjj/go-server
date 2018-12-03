@@ -1,0 +1,12 @@
+[2018-11-28 18:01:40]C:/Users/xuguoliang/go/src/go-server/src/base/log.go:67: ********************************************************** 
+
+[2018-11-28 18:01:40]C:/Users/xuguoliang/go/src/go-server/src/base/log.go:85: 	NetGateServer Version:	1,5,1,1
+[2018-11-28 18:01:40]C:/Users/xuguoliang/go/src/go-server/src/base/log.go:85: 	NetGateServerIP(LAN):	127.0.0.1:31700
+[2018-11-28 18:01:40]C:/Users/xuguoliang/go/src/go-server/src/base/log.go:85: 	WorldServerIP(LAN):	127.0.0.1:31300
+[2018-11-28 18:01:40]C:/Users/xuguoliang/go/src/go-server/src/base/log.go:85: 	AccountServerIP(LAN):	127.0.0.1:31200
+[2018-11-28 18:01:40]C:/Users/xuguoliang/go/src/go-server/src/base/log.go:67: ********************************************************** 
+
+[2018-11-28 18:01:50]C:/Users/xuguoliang/go/src/go-server/src/base/log.go:67: 收到world对自己注册的反馈 
+
+[2018-11-28 18:03:49]C:/Users/xuguoliang/go/src/go-server/src/base/log.go:85: login incoming  Socket:2 Account:10000001 
+[2018-11-28 18:04:30]C:/Users/xuguoliang/go/src/go-server/src/base/log.go:85: login incoming  Socket:4 Account:10000002 

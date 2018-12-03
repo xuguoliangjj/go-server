@@ -1,0 +1,12 @@
+[2018-11-29 12:17:08]C:/Users/xuguoliang/go/src/go-server/src/base/log.go:67: ********************************************************** 
+
+[2018-11-29 12:17:08]C:/Users/xuguoliang/go/src/go-server/src/base/log.go:85: 	AccountServer Version:	1,5,1,1
+[2018-11-29 12:17:08]C:/Users/xuguoliang/go/src/go-server/src/base/log.go:85: 	AccountServerIP(LAN):	127.0.0.1:31200
+[2018-11-29 12:17:08]C:/Users/xuguoliang/go/src/go-server/src/base/log.go:85: 	ActorDBServer(LAN):	localhost:3306
+[2018-11-29 12:17:08]C:/Users/xuguoliang/go/src/go-server/src/base/log.go:85: 	ActorDBName:		md_account
+[2018-11-29 12:17:08]C:/Users/xuguoliang/go/src/go-server/src/base/log.go:67: ********************************************************** 
+
+[2018-11-29 12:17:08]C:/Users/xuguoliang/go/src/go-server/src/base/log.go:67: 正在初始化数据库连接... 
+
+[2018-11-29 12:17:08]C:/Users/xuguoliang/go/src/go-server/src/base/log.go:85: [md_account]数据库初始化成功!
+[2018-11-29 12:17:18]C:/Users/xuguoliang/go/src/go-server/src/base/log.go:85: ADD GATE SERVER: [0]-[127.0.0.1:31700]
